@@ -1,47 +1,59 @@
-# 👋 Hi, I'm Hansil Chaudhary
+ <!-- HEADER BANNER -->
+<div align="center">
 
-### MCA Student | Aspiring Software Engineer | MERN Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:EAF4FF&height=200&section=header&text=Hansil%20Chaudhary&fontSize=40&fontColor=1F2937&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descSize=16&descColor=2563EB" width="100%" alt="Hansil Chaudhary profile banner"/>
 
-I enjoy building web applications and turning ideas into practical software solutions. I'm currently strengthening my full-stack development skills, learning C++ and Data Structures & Algorithms, and exploring open-source contributions.
+<a href="https://github.com/Hansil21">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Web+Applications;Learning+DSA+with+C%2B%2B;Exploring+Open-Source+Contributions;Build+%E2%80%A2+Learn+%E2%80%A2+Grow" alt="Developer introduction"/>
+</a>
 
-- 🔭 **Currently working on:** DevSphere AI — an AI-powered developer workspace
-- 🌱 **Currently learning:** MERN Stack, C++, DSA, REST APIs
-- 👯 **Open to collaborating on:** Full-stack projects and open-source contributions
-- 💬 **Ask me about:** JavaScript, React, Node.js, Express.js, MongoDB
-- 📫 **Email:** hashilchaudhry515@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-Hansil21-24292F?style=for-the-badge&logo=github)](https://github.com/Hansil21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Hansil21)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hansil21&style=for-the-badge&color=2563EB)](https://github.com/Hansil21)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Hansil Chaudhary**, an MCA student and aspiring Software Engineer passionate about full-stack development and building practical applications.
+
+- 🔭 **Currently working on:** DevSphere AI — an AI-powered developer workspace.
+- 🌱 **Currently learning:** MERN Stack, C++, Data Structures & Algorithms.
+- 👯 **Interested in:** Open-source contributions and collaborative software projects.
+- 💡 **Focus areas:** JavaScript, React, backend development, REST APIs and databases.
+- 🎯 **Goal:** Grow as a Software Engineer by building projects and strengthening problem-solving skills.
+- ⚡ **Mindset:** Build, learn, improve, repeat!
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/Hansil21)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/Hansil21)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:hashilchaudhry515@gmail.com)
+<p align="left">
+<a href="https://github.com/Hansil21"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/Hansil21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="hashilchaudhry515@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" alt="Frontend technologies"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=light" alt="Backend and database technologies"/>
+</p>
 
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Learning**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Languages & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode&theme=light" alt="Programming languages and tools"/>
+</p>
 
 ---
 
@@ -49,40 +61,60 @@ I enjoy building web applications and turning ideas into practical software solu
 
 ### 1. DevSphere AI — AI-Powered Developer Workspace
 
-A collaborative developer workspace concept combining task management, team collaboration, and AI-assisted development.
+A collaborative developer workspace designed to bring task management, team collaboration, and AI-assisted development into one place.
 
-**Tech:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.IO, JWT
+**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.IO, JWT
 
-🔗 [View Repository](YOUR_DEVSHPERE_AI_REPOSITORY_LINK)
+[![View Repository](https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](YOUR_DEVSPHERE_REPOSITORY_URL)
 
 ### 2. Odoo POS Cafe System
 
-A cafe management system focused on table and floor management, order tracking, kitchen display workflows, and sales reporting.
+A cafe management application focused on table and floor management, order tracking, kitchen display workflows, payment options, and sales reports.
 
-**Tech:** MERN Stack
+**Tech Stack:** MERN Stack
 
-🔗 [View Repository](YOUR_ODOO_POS_REPOSITORY_LINK)
+[![View Repository](https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)((https://github.com/Hansil21/odoo_POS_Cafe))
 
 ### 3. KHEL-GUARD AI DRM
 
-A project focused on identifying potentially manipulated or re-uploaded digital media using visual fingerprints and AI-assisted analysis.
+A digital media protection project exploring visual fingerprints and AI-assisted detection of potentially manipulated or re-uploaded media.
 
-**Tech:** Node.js, Express.js, MongoDB, FFmpeg, Gemini AI
+**Tech Stack:** Node.js, Express.js, MongoDB, FFmpeg, Gemini AI
 
-🔗 [View Repository](YOUR_KHEL_GUARD_REPOSITORY_LINK)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hansil21&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansil21&layout=compact&theme=radical)
+[![View Repository](https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](YOUR_KHEL_GUARD_REPOSITORY_URL)
 
 ---
 
-## 🤝 Let's Connect!
+## 📊 GitHub Statistics
 
-I'm always interested in learning, building useful projects, and connecting with other developers.
+<div align="center">
 
-**Build • Learn • Grow 🚀**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hansil21&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&bg_color=FFFFFF" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansil21&layout=compact&theme=default&hide_border=true&title_color=2563EB&bg_color=FFFFFF" alt="Most used languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Hansil21&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hansil21&bg_color=ffffff&color=374151&line=2563eb&point=0ea5e9&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Build • Learn • Grow
+
+*Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+**Let's build something meaningful together.** 🚀
+
+</div>

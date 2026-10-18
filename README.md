@@ -101,6 +101,8 @@ A digital media protection project exploring visual fingerprints and AI-assisted
 
 ## 📈 Contribution Activity
 
+## 📈 Contribution Activity
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hansil21&bg_color=ffffff&color=374151&line=2563eb&point=0ea5e9&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>

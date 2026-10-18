@@ -73,7 +73,7 @@ A cafe management application focused on table and floor management, order track
 
 **Tech Stack:** MERN Stack
 
-[![View Repository](https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)((https://github.com/Hansil21/odoo_POS_Cafe))
+[![View Repository](https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)
 
 ### 3. KHEL-GUARD AI DRM
 
